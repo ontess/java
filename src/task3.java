@@ -11,25 +11,25 @@ public class task3 {
         int count = scanner.nextInt();
 
         System.out.println("Введите сами числа через пробел, в конце Enter:");
-        for (int i = 0; i < count; i++){
+        for (int i = 0; i < count; i++) {
 
             long number = scanner.nextLong();
 
             long temp1 = number;
             long reversed = 0;
 
-            while(temp1>0){
+            while(temp1>0) {
                 long digit = temp1 % 10;
                 reversed = reversed * 10 + digit;
                 temp1 /= 10;
             }
 
-            if(number==reversed){
+            if(number==reversed) {
                 long multi = number*number;
 
                 long temp2 = multi;
                 long reversed2 = 0;
-                while(temp2>0){
+                while(temp2>0) {
                     long digit = temp2 % 10;
                     reversed2 = reversed2 * 10 + digit;
                     temp2 /= 10;

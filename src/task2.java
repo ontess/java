@@ -9,7 +9,7 @@ public class task2 {
                 int count = scanner.nextInt();
 
                 System.out.println("Введите сами числа через пробел, в конце Enter:");
-                for (int i = 0; i < count; i++){
+                for (int i = 0; i < count; i++) {
                     int number = scanner.nextInt();
 
                     int originalNumber = number;
@@ -21,7 +21,7 @@ public class task2 {
                     while (number>0){
                         int digit = number%10;
 
-                        if(position%2 == 0){
+                        if(position%2 == 0) {
                             multi *=digit;
                             hasPos = true;
                         }
@@ -30,9 +30,9 @@ public class task2 {
                         number /=10;
                     }
 
-                    if(hasPos){
+                    if(hasPos) {
                         System.out.println("Для числа " + originalNumber + " произведение " + multi );
-                    } else{
+                    } else {
                         System.out.println("Для однозначного " + originalNumber + " мульти нету");
                     }
 

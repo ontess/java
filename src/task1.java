@@ -16,13 +16,13 @@ public class task1 {
                 int temp = number;
                 int length = 0;
 
-                while(temp>0){
+                while(temp > 0) {
                     length++;
                     temp = temp/10;
                 }
 
 
-                if(length%2 == 0) {
+                if(length % 2 == 0) {
                     System.out.println("Число подходит, длина чётная: " + length);
                     int[] counts = new int[10];
 

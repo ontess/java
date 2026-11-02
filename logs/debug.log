@@ -1,0 +1,49 @@
+2026-11-02 11:40:30 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 11:40:38 WARN  [main] TaxDataReader - Некорректная льгота на детей, используется значение 0: CHILD_BENEFIT;-2
+2026-11-02 11:40:38 WARN  [main] TaxDataReader - Запись пропущена: 'ROYALTY;abc'. Причина: Некорректная сумма: abc
+2026-11-02 11:40:38 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 11:40:38 WARN  [main] TaxDataReader - Запись пропущена: 'UNKNOWN;50'. Причина: Неизвестный тип дохода: UNKNOWN
+2026-11-02 11:40:38 INFO  [main] TaxDataReader - Загружено доходов: 2
+2026-11-02 11:40:49 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 11:40:49 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 11:40:49 WARN  [main] TaxService - Пропущен пустой объект дохода
+2026-11-02 11:40:49 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 11:43:19 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 11:43:35 WARN  [main] TaxDataReader - Некорректная льгота на детей, используется значение 0: CHILD_BENEFIT;-2
+2026-11-02 11:43:35 WARN  [main] TaxDataReader - Запись пропущена: 'ROYALTY;abc'. Причина: Некорректная сумма: abc
+2026-11-02 11:43:35 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 11:43:35 WARN  [main] TaxDataReader - Запись пропущена: 'UNKNOWN;50'. Причина: Неизвестный тип дохода: UNKNOWN
+2026-11-02 11:43:35 INFO  [main] TaxDataReader - Загружено доходов: 2
+2026-11-02 11:43:42 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 11:43:42 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 11:43:42 WARN  [main] TaxService - Пропущен пустой объект дохода
+2026-11-02 11:43:42 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:01:50 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 12:01:58 WARN  [main] TaxDataReader - Некорректная льгота на детей, используется значение 0: CHILD_BENEFIT;-2
+2026-11-02 12:01:58 WARN  [main] TaxDataReader - Запись пропущена: 'ROYALTY;abc'. Причина: Некорректная сумма: abc
+2026-11-02 12:01:58 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 12:01:58 WARN  [main] TaxDataReader - Запись пропущена: 'UNKNOWN;50'. Причина: Неизвестный тип дохода: UNKNOWN
+2026-11-02 12:01:58 INFO  [main] TaxDataReader - Загружено доходов: 2
+2026-11-02 12:02:05 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:02:05 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:02:05 WARN  [main] TaxService - Пропущен пустой объект дохода
+2026-11-02 12:02:05 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:16:05 WARN  [main] TaxDataReader - Запись пропущена: 'EMPLOYMENT;-1000;MAIN'. Причина: Сумма должна быть неотрицательной
+2026-11-02 12:16:05 WARN  [main] TaxDataReader - Запись пропущена: 'ROYALTY;abc'. Причина: Некорректная сумма: abc
+2026-11-02 12:16:05 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN_TYPE
+2026-11-02 12:16:05 WARN  [main] TaxDataReader - Запись пропущена: 'UNKNOWN_TYPE;50000'. Причина: Неизвестный тип дохода: UNKNOWN_TYPE
+2026-11-02 12:16:05 WARN  [main] TaxDataReader - Запись пропущена: 'GIFT_MONEY;-200'. Причина: Сумма должна быть неотрицательной
+2026-11-02 12:16:05 INFO  [main] TaxDataReader - Загружено доходов: 8
+2026-11-02 12:16:05 WARN  [main] TaxDataReader - Некорректная льгота на детей, используется значение 0: CHILD_BENEFIT;-1
+2026-11-02 12:16:05 INFO  [main] TaxService - Рассчитано налоговых выплат: 8
+2026-11-02 12:16:05 INFO  [main] Main - Расчёт налогов завершён
+2026-11-02 12:16:43 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 12:16:50 WARN  [main] TaxDataReader - Некорректная льгота на детей, используется значение 0: CHILD_BENEFIT;-2
+2026-11-02 12:16:50 WARN  [main] TaxDataReader - Запись пропущена: 'ROYALTY;abc'. Причина: Некорректная сумма: abc
+2026-11-02 12:16:50 WARN  [main] IncomeFactory - Неизвестный тип записи: UNKNOWN
+2026-11-02 12:16:50 WARN  [main] TaxDataReader - Запись пропущена: 'UNKNOWN;50'. Причина: Неизвестный тип дохода: UNKNOWN
+2026-11-02 12:16:50 INFO  [main] TaxDataReader - Загружено доходов: 2
+2026-11-02 12:16:59 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:16:59 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
+2026-11-02 12:16:59 WARN  [main] TaxService - Пропущен пустой объект дохода
+2026-11-02 12:16:59 INFO  [main] TaxService - Рассчитано налоговых выплат: 1
